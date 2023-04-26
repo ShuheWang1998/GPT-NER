@@ -1,7 +1,15 @@
 # GPT-NER: Named Entity Recognition via Large LanguageModels
 
 ## Introduction
-This repo contains code for the paper [GPT-NER: Named Entity Recognition via Large LanguageModels](https://arxiv.org/pdf/2105.07654).
+This repo contains code for the paper [GPT-NER: Named Entity Recognition via Large LanguageModels](https://arxiv.org/pdf/2304.10428.pdf).
+```latex
+@article{wang2023gpt,
+  title={GPT-NER: Named Entity Recognition via Large Language Models},
+  author={Wang, Shuhe and Sun, Xiaofei and Li, Xiaoya and Ouyang, Rongbin and Wu, Fei and Zhang, Tianwei and Li, Jiwei and Wang, Guoyin},
+  journal={arXiv preprint arXiv:2304.10428},
+  year={2023}
+}
+```
 
 ## Usage
 
